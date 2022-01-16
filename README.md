@@ -1,2 +1,18 @@
 # bemoeizorg-jazzkiller
+
 1990-2022
+
+# psychiatrist
+https://en.wikipedia.org/wiki/Psychiatrist
+
+# neurolgy
+https://en.wikipedia.org/wiki/Neurology
+
+# assortiment
+https://fr.wikipedia.org/wiki/Assortiment
+
+# paul janssen
+https://en.wikipedia.org/wiki/Paul_Janssen
+
+# staat der nedelanden
+https://nl.wikipedia.org/wiki/Staat_der_Nederlanden
